@@ -13,7 +13,7 @@ We present two novel methods for integrating between-population LGC information 
 
 ## Example data
 
-There are genotype and phenotype data for two populations as example data (450 individuals in the population 1, 50 individuals in the population 2), which can be used to run all scripts.
+There are genotype and phenotype data for two populations as example data (1940 individuals in the OX population, 1037 individuals in the UC population), which can be used to run all scripts.
 
 ## How to run script
 
