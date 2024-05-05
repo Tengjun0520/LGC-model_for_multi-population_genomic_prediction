@@ -3,7 +3,7 @@
 ## Model summary
 
 We present two novel methods for integrating between-population LGC information into multi-population genomic prediction, which based on the MTGBLUP framework and involve grouping SNPs according to the significance or degree of local genetic correlations of the regions in which they are located. The models is as follows,
-![](https://github.com/Tengjun0520/multi-population_genomic_prediction/blob/main/model.png)
+![](https://github.com/Tengjun0520/LGC-model_for_multi-population_genomic_prediction/blob/main/model.png)
 
 ## Requirements
 
